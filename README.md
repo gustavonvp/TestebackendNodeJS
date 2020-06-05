@@ -2,22 +2,15 @@
 
 ![backend-for-frontend](https://user-images.githubusercontent.com/54008916/83834588-04f2a380-a6c5-11ea-96fe-3cafb39479a0.png)
 
-
-
-
-
-
-
-
-
-
-<h3>CRUD com metodos get, post, delete, put </h3>
+<h2>CRUD com metodos get, post, delete, put </h2>
 
 
 ![a3exuz06e9h212pandfr](https://user-images.githubusercontent.com/54008916/83834631-23589f00-a6c5-11ea-98ba-152d430a81ad.jpg)
 
 
-<h4>middlewares Globais e Locais</h4>
+<h2>middlewares Globais e Locais</h2>
+
+![unnamed](https://user-images.githubusercontent.com/54008916/83834748-7fbbbe80-a6c5-11ea-9e0b-f44f3bbd9c19.png)
 
 
 <h2>Dependências</h2>
