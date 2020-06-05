@@ -17,7 +17,7 @@
 
 <h2> Task-List </h2>
 
-- [x] Instalar o PackageManager[Chocolatey](https://chocolatey.org/) que é similar ao sudo-apt do Linux, para poder instalar aplicações/softwares como o NodeJS por exemplo.
+- [x] Instalar o PackageManager [Chocolatey](https://chocolatey.org/) que é similar ao sudo-apt do Linux, para poder instalar aplicações/softwares como o NodeJS por exemplo.
 - [x] Instalar o [NodeJS](https://nodejs.org/en/) que vem com o NPM instalado. 
 - [x] Instalar interface de linha de comandos para gerenciar pacotes --> [Yarn](https://yarnpkg.com/) 
 - [x] Instalar dependências utilizando yarn, no projeto. 
