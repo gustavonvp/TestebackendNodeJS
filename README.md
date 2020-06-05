@@ -1,9 +1,22 @@
 # TestebackendNodeJS
 
+![backend-for-frontend](https://user-images.githubusercontent.com/54008916/83834588-04f2a380-a6c5-11ea-96fe-3cafb39479a0.png)
+
+
+
+
+
+
+
 
 
 
 <h3>CRUD com metodos get, post, delete, put </h3>
+
+
+![a3exuz06e9h212pandfr](https://user-images.githubusercontent.com/54008916/83834631-23589f00-a6c5-11ea-98ba-152d430a81ad.jpg)
+
+
 <h4>middlewares Globais e Locais</h4>
 
 
@@ -13,7 +26,7 @@
 <br></br>
 [Nodemon](https://www.npmjs.com/package/nodemon)
 
-#Markdonw
+
 
 <h2> Task-List </h2>
 
