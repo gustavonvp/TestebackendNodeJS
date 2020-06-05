@@ -8,8 +8,10 @@
 
 
 <h2>Dependências</h2>
-- [Express](https://expressjs.com/pt-br/)
-- [Nodemon](https://www.npmjs.com/package/nodemon)
+
+[Express](https://expressjs.com/pt-br/)
+<br></br>
+[Nodemon](https://www.npmjs.com/package/nodemon)
 
 
 
