@@ -1,0 +1,7 @@
+# NODE - MONGOOSE - NODEMON - PROMISSES
+
+:hotsprings: BACKEND com Transpilador BABEL para diferença de sintaxe.
+:hotsprings: Uso do NODEMON para executar o servidor e atualiza-lo sem precisar startar novamente.
+:hotsprings: MONGOOSE para se conectar com BANCO DE DADOS MONGODB.
+:hotsprings: Utilização de envio de DADOS por requisições para o BD.
+:hotsprings: PROMISSES em ROTAS para teste de funções assíncronas.
