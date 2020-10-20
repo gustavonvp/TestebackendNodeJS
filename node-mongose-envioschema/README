@@ -5,3 +5,11 @@
 :hotsprings: MONGOOSE para se conectar com BANCO DE DADOS MONGODB.
 :hotsprings: Utilização de envio de DADOS por requisições para o BD.
 :hotsprings: PROMISSES em ROTAS para teste de funções assíncronas.
+
+
+:triangular_flag_on_post: Rodar npm install para instalar as depedências do package.json
+:izakaya_lantern: Verificar o 'SCRIPT' do package.json e rodar npm run 'nome_propriedade_do_script'. 
+:checkered_flag: Exemplo: npm run start 
+:checkered_flag: Exemplo Configurando NODEMON: npm run dev:server ou npm run nodemon index.js
+
+:construction: Rotas GET no index.js interagem com o backend da aplicação.
