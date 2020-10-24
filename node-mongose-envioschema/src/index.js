@@ -34,7 +34,6 @@ app.get('/mensagem',(req,res)=>res.send('Utilizei esta req para enviar para a ro
 app.get('/promisse',(req,res)=>res.send(asyncCall()))
 
 
-
 database.connect().then(() => {
     app.listen(port, () => console.log('Api rodando na porta 3000'))
 })
